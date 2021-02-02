@@ -1,3 +1,6 @@
 .coolColors {
     background-image: linear-gradient(to bottom right, magenta, cyan);
+    height: 100vw;
+    width: 100vw;
+    position: absolute;
   }
